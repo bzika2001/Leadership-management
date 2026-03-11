@@ -1,4 +1,4 @@
-Thanks for sharing Witness Malatjie’s CV! Based on his background in software testing and automation, here are some tailored interview questions that dig into his experience, technical skills, and mindset:
+ Based on his background in software testing and automation, here are some tailored interview questions that dig into his experience, technical skills, and mindset:
 
 ---
 
